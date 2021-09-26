@@ -32,21 +32,21 @@ int main()
 	cout << "First character of the message: " << endl;
 	cin >> input1;
 	while (isalpha(input1) == false) {
-		cout << "This must be an integer. Re-enter your character: ";
+		cout << "This must be a character. Re-enter your character: ";
 		cin >> input1;
 	}
 
 	cout << "Second character of the message: " << endl;
 	cin >> input2;
 	while (isalpha(input2) == false) {
-		cout << "This must be an integer. Re-enter your character: ";
+		cout << "This must be a character. Re-enter your character: ";
 		cin >> input2;
 	}
 
 	cout << "Third character of the message: " << endl;
 	cin >> input3;
 	while (isalpha(input3) == false) {
-		cout << "This must be an integer. Re-enter your character: ";
+		cout << "This must be a character. Re-enter your character: ";
 		cin >> input3;
 	}
 
