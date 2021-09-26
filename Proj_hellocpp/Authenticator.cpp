@@ -1,5 +1,6 @@
 // authenticator.cpp: A program that authenticates the message inputted by the user
-
+// author: Samuel Bernsen
+// class: CPSC 298 - 06
 #include <iostream>
 #include <string>
 using namespace std;
