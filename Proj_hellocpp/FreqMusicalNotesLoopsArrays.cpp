@@ -1,4 +1,5 @@
-
+// author: Samuel Bernsen
+// CENG 298 - 06
 #include <iostream>
 #include <string>
 #include <cmath>
